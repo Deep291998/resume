@@ -1,6 +1,6 @@
 # resume
 
-[Home](home.markdown)
+[Home](Home.markdown)
 [project](project.markdown)
 [contact](contact.markdown)
 

@@ -1,6 +1,8 @@
-[Home](home.markdown)
-[project](projects.markdown)
+[Home](Home.markdown)
+[project](project.markdown)
+[Education](edu.markdown)
 [contact](contact.markdown)
+
 
 ### Deep patel  
 

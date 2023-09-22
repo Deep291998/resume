@@ -1,3 +1,7 @@
+[Home](Home.markdown)
+[project](project.markdown)
+[Education](edu.markdown)
+[contact](contact.markdown)
 
 | Projects |
 

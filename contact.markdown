@@ -5,3 +5,6 @@
 
 ## Contact
 ### +1(437)818-2911
+
+## E-mail
+### deeppatel291997@gmail.com

@@ -1,5 +1,9 @@
 # resume
 
+[Home](home.markdown)
+[project](projects.markdown)
+[contact](contact.markdown)
+
 # Deep Patel
 
 
